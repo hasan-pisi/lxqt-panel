@@ -130,7 +130,7 @@
     <message>
         <location filename="../lxqtworldclockconfiguration.ui" line="196"/>
         <source>Location identifier</source>
-        <translation>Konum belirteci</translation>
+        <translation>Konum tanımlayıcı</translation>
     </message>
     <message>
         <location filename="../lxqtworldclockconfiguration.ui" line="212"/>
@@ -205,12 +205,12 @@
     <message>
         <location filename="../lxqtworldclockconfiguration.ui" line="476"/>
         <source>&amp;Edit custom name ...</source>
-        <translation>Özel adı &amp;düzenle ...</translation>
+        <translation>&amp;Özel adı düzenle ...</translation>
     </message>
     <message>
         <location filename="../lxqtworldclockconfiguration.ui" line="486"/>
         <source>Move &amp;up</source>
-        <translation>Y&amp;ukarı taşı</translation>
+        <translation>&amp;Yukarı taşı</translation>
     </message>
     <message>
         <location filename="../lxqtworldclockconfiguration.ui" line="496"/>
